@@ -1,0 +1,26 @@
+{
+  "name": "dbfirst",
+  "version": "1.0.0",
+  "description": "Knexjs practice with DB first approch",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Musabbir Mamun",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "knex": "^0.21.14",
+    "mysql2": "^2.2.5"
+  },
+  "devDependencies": {
+    "knex-generic-errors": "^0.1.5",
+    "nodemon": "^2.0.6"
+  }
+}
